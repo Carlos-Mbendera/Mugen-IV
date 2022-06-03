@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B6637221284A78D800960F65 /* MiDi.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6637220284A78D800960F65 /* MiDi.swift */; };
 		B68BF3CF284979CA00B1AB1A /* Mugen_IVApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68BF3CE284979CA00B1AB1A /* Mugen_IVApp.swift */; };
 		B68BF3D1284979CA00B1AB1A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B68BF3D0284979CA00B1AB1A /* ContentView.swift */; };
 		B68BF3D3284979CC00B1AB1A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B68BF3D2284979CC00B1AB1A /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B6637220284A78D800960F65 /* MiDi.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiDi.swift; sourceTree = "<group>"; };
 		B68BF3CB284979CA00B1AB1A /* Mugen IV.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Mugen IV.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B68BF3CE284979CA00B1AB1A /* Mugen_IVApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mugen_IVApp.swift; sourceTree = "<group>"; };
 		B68BF3D0284979CA00B1AB1A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -52,6 +54,7 @@
 			isa = PBXGroup;
 			children = (
 				B68BF3CE284979CA00B1AB1A /* Mugen_IVApp.swift */,
+				B6637220284A78D800960F65 /* MiDi.swift */,
 				B68BF3D0284979CA00B1AB1A /* ContentView.swift */,
 				B68BF3D2284979CC00B1AB1A /* Assets.xcassets */,
 				B68BF3D4284979CC00B1AB1A /* Preview Content */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B6637221284A78D800960F65 /* MiDi.swift in Sources */,
 				B68BF3D1284979CA00B1AB1A /* ContentView.swift in Sources */,
 				B68BF3CF284979CA00B1AB1A /* Mugen_IVApp.swift in Sources */,
 			);
